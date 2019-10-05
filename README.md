@@ -1,2 +1,2 @@
 # add_two_numbers
-add two numbers here
+added and subtracted two numbers
