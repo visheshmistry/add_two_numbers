@@ -3,8 +3,6 @@ using namespace std;
 
 int main(){
 	int a,b;
-
-	// your code
-
+sum = a+b;
 	return 0;
 }
