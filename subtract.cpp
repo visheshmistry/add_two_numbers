@@ -7,7 +7,4 @@ int main(){
 	cin>>a>>b;
 	diff=a-b;
 	cout<<diff;
-	
-
-	return 0;
 }
