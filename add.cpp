@@ -2,9 +2,10 @@
 using namespace std;
 
 int main(){
-	int a,b;
+	int a,b,add;
+	add= a+b;
 
-	// your code
+	
 
-	return 0;
+	return add;
 }
