@@ -3,9 +3,10 @@ using namespace std;
 
 int main(){
 	int a,b;
-
-	// your code
+	
+	cout<<"Enter the number a and b ==>";
+	cin>>a>>b;
 	int sum = a + b;
-
+	cout << sum;
 	return 0;
 }
