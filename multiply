@@ -1,0 +1,8 @@
+#include<bits/stdc++.h>
+ int main(){
+ cin>>a;
+ <<a;       // multiplying with 2
+ cout<<a;
+ return 0;
+ }
+ 
