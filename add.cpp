@@ -4,9 +4,11 @@ using namespace std;
 int main(){
 	int a,b;
 
-    cout << "Sum of the two numbers is";
-
 	// your code
+
+
+cout<<"Sum of "<<num1<<" and "<<num2<<" is "<<sum;
+
 	int sum = a + b;
 
 	return 0;
