@@ -4,7 +4,8 @@ using namespace std;
 int main(){
 	int a,b;
 
-Printf("The sum of input numbers is");
+    cout << "Sum of the two numbers is;
+
 	// your code
 	int sum = a + b;
 
